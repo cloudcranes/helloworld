@@ -1,5 +1,6 @@
 package cn.cqswxy.test;
 
+//这是IDEA
 public class Test {
 
     public static void main(String[] args) {
